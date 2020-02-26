@@ -1,6 +1,6 @@
 # Ask Me Anything
 
-I'm a Developer Advocate at Microsoft, speaker, and an author. I also help with the global [devopsdays](https://devopsdays.org/) Organization as well as [Kubernetes Community Days](https://kubernetescommunitydays.org/). 
+I'm a Developer Advocate at Microsoft, speaker, and an author. I also help with the global [devopsdays](https://devopsdays.org/) Organization as well as [Kubernetes Community Days](https://kubernetescommunitydays.org/). I founded [CoffeeOps](http://www.coffeeops.org/) and started the Sparkly DevOps movement.  
 
 You can find me on twitter: [@sigje](https://twitter.com/sigje) and on dev.to [@sigje](https://dev.to/sigje)
 
