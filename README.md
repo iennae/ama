@@ -1,6 +1,6 @@
 # Ask Me Anything
 
-I'm a Developer Advocate at Microsoft, have years of Ops experience, and an author. I also help with the global devopsdays Organization as well as Kubernetes Community Days. 
+I'm a Developer Advocate at Microsoft, speaker, and an author. I also help with the global [devopsdays](https://devopsdays.org/) Organization as well as [Kubernetes Community Days](https://kubernetescommunitydays.org/). 
 
 You can find me on twitter: [@sigje](https://twitter.com/sigje) and on dev.to [@sigje](https://dev.to/sigje)
 
